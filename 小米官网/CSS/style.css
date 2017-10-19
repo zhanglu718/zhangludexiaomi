@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+}
+.top{
+    height: 120px;
+}
+.top a{
+    display: block;
+    height: 120px;
+    background: url(../img/top.jpg) no-repeat center;
+}
